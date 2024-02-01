@@ -1,0 +1,1 @@
+# Integrasi-Data-Saham-BCA-pada-Yahoo-Finance-Secara-Real-Time-dengan-Pipeline-Menggunakan-Kafka
